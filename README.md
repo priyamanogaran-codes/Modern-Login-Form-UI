@@ -18,7 +18,11 @@ A modern login form UI design created as a UI/UX design practice project.
 ***Figma***
 
 # UI Screenshots
-[!1](
+![Login FoRM UI](form1.png)
+![Login FoRM UI](form2.png)
+![Login FoRM UI](form3.png)
+![Login FoRM UI](form4.png)
+![Login FoRM UI](form5.png)
 
 # Purpose
 
